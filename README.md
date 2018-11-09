@@ -16,3 +16,5 @@ VueJS profile info card using custom element input
   npm start
   ```
 <br />
+
+![alt text](https://raw.githubusercontent.com/aelbore/vue-profile-custom-element/master/vueprofilecustomelement.gif)
